@@ -58,4 +58,3 @@ An image editing tool that enables photographers to edit their photos and make t
 ## Detailed View of the Product:
 
 https://drive.google.com/file/d/1C4fPx8T6teqfkmiOCtmd26EgUt5XJUOs/view?usp=sharing
-
