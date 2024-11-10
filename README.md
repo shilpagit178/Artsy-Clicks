@@ -40,19 +40,19 @@ An image editing tool that enables photographers to edit their photos and make t
 
 ## Landing Page:
 
-<img width="1440" alt="Landing page" src=".\images\front page.png">
+<img width="1440" alt="Landing page" src=".\images\landingPage.png">
 
 ## Artists Page:
 
-<img width="1440" alt="Landing page" src=".\images\Artists Page.png">
+<img width="1440" alt="Landing page" src=".\images\ArtistsPage.png">
 
 ## Types Page:
 
-<img width="1440" alt="about" src=".\images\Types page.png">
+<img width="1440" alt="about" src=".\images\typesPage.png">
 
 ## Explore Page:
 
-<img width="1440" alt="about" src=".\images\explore page.png">
+<img width="1440" alt="about" src=".\images\explorePage.png">
 
 
 ## Detailed View of the Product:
