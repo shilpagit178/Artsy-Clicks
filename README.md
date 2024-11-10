@@ -40,21 +40,21 @@ An image editing tool that enables photographers to edit their photos and make t
 
 ## Landing Page:
 
-<img width="1440" alt="Landing page" src="./images/front page.png">
+<img width="1440" alt="Landing page" src=".\images\front page.png">
 
 ## Artists Page:
 
-<img width="1440" alt="Landing page" src="./images/Artists Page.png">
+<img width="1440" alt="Landing page" src=".\images\Artists Page.png">
 
 ## Types Page:
 
-<img width="1440" alt="about" src="./images/Types page.png">
+<img width="1440" alt="about" src=".\images\Types page.png">
 
 ## Explore Page:
 
-<img width="1440" alt="about" src="./images/explore page.png">
+<img width="1440" alt="about" src=".\images\explore page.png">
 
 
 ## Detailed View of the Product:
 
-https://drive.google.com/file/d/1C4fPx8T6teqfkmiOCtmd26EgUt5XJUOs/view?usp=sharing
+https://drive.google.com/file/d/1GnIouCw4y8qkn6bMJnYeP2-BDslCoUIr/view?usp=drive_link
