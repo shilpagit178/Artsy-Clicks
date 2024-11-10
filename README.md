@@ -36,23 +36,6 @@ An image editing tool that enables photographers to edit their photos and make t
                                    3. Git 
                                    
                                   
-### ⭐ Representation :
-
-## Landing Page:
-
-<img width="1440" alt="Landing page" src=".\images\landingPage.png">
-
-## Artists Page:
-
-<img width="1440" alt="Landing page" src=".\images\ArtistsPage.png">
-
-## Types Page:
-
-<img width="1440" alt="about" src=".\images\typesPage.png">
-
-## Explore Page:
-
-<img width="1440" alt="about" src=".\images\explorePage.png">
 
 
 ## Detailed View of the Product:
